@@ -8,4 +8,4 @@ pytz
 sqlparse
 tzdata
 whitenoise
-collectstatic
+
